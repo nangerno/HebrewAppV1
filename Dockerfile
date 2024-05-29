@@ -6,6 +6,8 @@ WORKDIR /app
 # Copy the application files into the working directory
 COPY . /app
 
+RUN pip install --upgrade pip setuptools
+
 # Install the application dependencies
 RUN pip install -r requirements.txt
 
