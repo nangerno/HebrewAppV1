@@ -98,7 +98,7 @@ jmespath==1.0.1
 jsonfield==3.1.0
 keras==3.3.3
 Keras-Applications==1.0.8
-keras-ocr @ git+https://github.com/faustomorales/keras-ocr.git@e8d34a46f07d50158e1d86d6c617e99bfe99e2f8
+keras-ocr==0.8.4
 kiwisolver==1.4.5
 kombu==5.3.5
 lazy_loader==0.4
